@@ -6,5 +6,7 @@
 [![Code Grade](https://www.code-inspector.com/project/27497/score/svg)](https://www.code-inspector.com)
 [![Code Grade](https://www.code-inspector.com/project/27497/status/svg)](https://www.code-inspector.com)
 
-
+| Compile Linux | Cpp Check |
+| ----------- | ----------- |
 [![Compile-Linux](https://github.com/Akshata-Kanagoudar/stepin-embedded_heat_monitoring_system/actions/workflows/Compile.yml/badge.svg)](https://github.com/Akshata-Kanagoudar/stepin-embedded_heat_monitoring_system/actions/workflows/Compile.yml)
+
