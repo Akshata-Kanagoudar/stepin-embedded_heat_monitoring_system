@@ -9,8 +9,8 @@
 
 
 
-| Compile Linux | Cpp Check |
-| ----------- | ----------- |
+# Compile Linux 
 [![Compile-Linux](https://github.com/Akshata-Kanagoudar/stepin-embedded_heat_monitoring_system/actions/workflows/Compile.yml/badge.svg)](https://github.com/Akshata-Kanagoudar/stepin-embedded_heat_monitoring_system/actions/workflows/Compile.yml)
+# Cpp Check 
 [![Cppcheck](https://github.com/Akshata-Kanagoudar/stepin-embedded_heat_monitoring_system/actions/workflows/Code_quality.yml/badge.svg)](https://github.com/Akshata-Kanagoudar/stepin-embedded_heat_monitoring_system/actions/workflows/Code_quality.yml)
 
